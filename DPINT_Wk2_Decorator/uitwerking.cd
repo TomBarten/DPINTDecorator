@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="DPINT_Wk2_Decorator.Model.Attack" Collapsed="true">
+    <Position X="15.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAQAAAAA=</HashCode>
+      <FileName>Model\Attack.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DPINT_Wk2_Decorator.Model.Fighter" BaseTypeListCollapsed="true">
+    <Position X="20.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAAAEAAAAAAAAAAAAIAAAAACAAAAAAAAQAA=</HashCode>
+      <FileName>Model\Fighter.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="DPINT_Wk2_Decorator.Model.Decorators.BaseFighterDecorator" Collapsed="true">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAABAAAAAEAAAAAAAAAAAAIAAAAACAAAAAAAAQAA=</HashCode>
+      <FileName>Model\Decorators\BaseFighterDecorator.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="DPINT_Wk2_Decorator.Model.Decorators.DoubleHandedFighterDecorator" Collapsed="true">
+    <Position X="6.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAQAA=</HashCode>
+      <FileName>Model\Decorators\DoubleHandedFighterDecorator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DPINT_Wk2_Decorator.Model.Decorators.MinionFighterDecorator" Collapsed="true">
+    <Position X="11" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAEAAAAAIAAAAAAAAAAAAAAQAg=</HashCode>
+      <FileName>Model\Decorators\MinionFighterDecorator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DPINT_Wk2_Decorator.Model.Decorators.PoisonFighterDecorator" Collapsed="true">
+    <Position X="2" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAIAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\Decorators\PoisonFighterDecorator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DPINT_Wk2_Decorator.Model.Decorators.ShieldFighterDecorator" Collapsed="true">
+    <Position X="4.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgQAA=</HashCode>
+      <FileName>Model\Decorators\ShieldFighterDecorator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DPINT_Wk2_Decorator.Model.Decorators.ShotgunFighterDecorator" Collapsed="true">
+    <Position X="8.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\Decorators\ShotgunFighterDecorator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DPINT_Wk2_Decorator.Model.Decorators.StrengtherFighterDecorator" Collapsed="true">
+    <Position X="13.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\Decorators\StrengtherFighterDecorator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="DPINT_Wk2_Decorator.Model.IFighter">
+    <Position X="14.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAAAEAAAAAAAAAAAAIAAAAACAAAAAAAAQAA=</HashCode>
+      <FileName>Model\IFighter.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
